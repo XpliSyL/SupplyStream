@@ -6,7 +6,7 @@ import Waypoint from 'react-waypoint'
 
 import Header from '../components/Header'
 import Nav from '../components/Nav'
-import pic01 from '../assets/images/pic01.jpg'
+import pic01 from '../assets/images/picss.png'
 
 class Index extends React.Component {
   constructor(props) {
@@ -64,7 +64,7 @@ class Index extends React.Component {
             </header>
             <ul className="features">
               <li>
-                <span className="icon major style1 fa-code"></span>
+                <span className="icon major style1 fa-line-chart"></span>
                 <h3>Supply Chain Analysis</h3>
                 <p>
                   Supply Stream has the expertise to assist you manage your supply chain requirements ensuring expenditure savings as a result within your business.
@@ -72,7 +72,7 @@ class Index extends React.Component {
                 </p>
               </li>
               <li>
-                <span className="icon major style3 fa-copy"></span>
+                <span className="icon major style3 fa-heart"></span>
                 <h3>Specialist Sourcing</h3>
                 <p>
                   Supply Stream has established strong and reliable relationships with local and international wholesale and manufacturing companies. Supply Stream can assist you achieve:
@@ -81,7 +81,7 @@ class Index extends React.Component {
                 </p>
               </li>
               <li>
-                <span className="icon major style5 fa-diamond"></span>
+                <span className="icon major style5 fa-ticket"></span>
                 <h3>Product Selection Strategies</h3>
                 <p>
                   Supply Stream offers a depth of product knowledge that facilitates innovative solutions to meet your sustainable and expenditure reduction requirements. Our service offering includes:
