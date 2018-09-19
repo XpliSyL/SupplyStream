@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: "Supply Stream",
     author: "Allan Phillips",
-    description: "To provide a sustainable level of service that meets the expectations of our Clients",
+    description: "To provide a sustainable level of service that meets the expectations of our Clients"
+    },
   pathPrefix: '/',
   plugins: [
     {
